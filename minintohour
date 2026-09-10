@@ -1,0 +1,2 @@
+a=int(input("enter minutes: "))
+print(a//60,"hours",a%60,"minutes")
