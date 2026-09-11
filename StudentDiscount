@@ -1,0 +1,2 @@
+a=int(input("enter your age :"))
+print(a<=21,"you are student eligible for discount ")
