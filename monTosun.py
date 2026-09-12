@@ -4,7 +4,7 @@ if a==0:
 elif a==1:
     print("tuesday")
 elif a==2:
-    print("wenesday")
+    print("wednesday")
 elif a==3:
     print("thursday")
 elif a==4:
